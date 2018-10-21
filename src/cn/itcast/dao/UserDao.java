@@ -4,6 +4,9 @@ import java.util.List;
 
 import cn.itcast.vo.User;
 
+/**
+ * dao½Ó¿Ú
+ */
 public interface UserDao {
 	
 	public User findUser(User user);
