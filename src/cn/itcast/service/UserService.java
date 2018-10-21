@@ -6,8 +6,6 @@ import cn.itcast.vo.User;
 
 /**
  * 用户相关的业务类
- * @author Administrator
- *
  */
 public class UserService {
 
