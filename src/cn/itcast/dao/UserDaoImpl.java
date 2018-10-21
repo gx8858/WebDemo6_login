@@ -15,7 +15,7 @@ import cn.itcast.vo.User;
 public class UserDaoImpl implements UserDao {
 	
 	/**
-	 * 完成登陆的操作
+	 * 完成登陆的操作（dao实现类）
 	 * (防止SQL注入)
 	 */
 	public User findUserByPrepared(User user) {
