@@ -14,6 +14,9 @@ import org.apache.commons.beanutils.BeanUtils;
 import cn.itcast.service.UserService;
 import cn.itcast.vo.User;
 
+/**
+ * µÇÂ¼µÄservlet
+ */
 public class LoginServlet extends HttpServlet {
 
 	private static final long serialVersionUID = -5933952794357976456L;
